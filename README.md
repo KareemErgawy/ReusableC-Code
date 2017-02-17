@@ -1,2 +1,2 @@
-ReusableC-Code
-==============
+Reusable C++ Code
+=================
